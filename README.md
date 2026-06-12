@@ -13,3 +13,4 @@ This is the initial release of the Calculator Service project.
 - Release v1.0: Addition feature
 - Release v2.0: Subtraction
 - Release v3.0: Multiplication
+- Release v4.0: Division
