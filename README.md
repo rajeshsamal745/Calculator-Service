@@ -8,3 +8,4 @@ This is the initial release of the Calculator Service project.
 
 ## Git Workflow
 - Release v1.0: Addition feature
+g
