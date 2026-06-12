@@ -9,7 +9,9 @@ def multiply(a, b):
     return a * b
 
 def divide(a, b):
-    return a / b if b != 0 else "Error: Division by zero"
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b
 
 if __name__ == "__main__":
     print("Addition Example:", add(5, 3))

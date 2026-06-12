@@ -8,6 +8,7 @@ This is the initial release of the Calculator Service project.
 - Subtraction (new in v2.0)
 - Frontend: HTML, CSS, JS
 - Optional backend: Python
+- Hotfix v4.1: Clearer error message for division by zero
 
 ## Git Workflow
 - Release v1.0: Addition feature
